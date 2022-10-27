@@ -7,7 +7,9 @@ public class CollectionList {
 	public static void main(String[] args) {
 		List li=new LinkedList();
 
-		li.add("Satya");
+
+		li.add("Sita");
+
 		li.add(30);
 		li.add("Infosys");
 		
