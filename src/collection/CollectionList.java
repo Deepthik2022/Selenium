@@ -14,7 +14,7 @@ public class CollectionList {
 		List li2=new LinkedList();
 		li2.add("Deepthi");
 		li2.add(31);
-		li2.add("Infosys");
+		li2.add("Wipro");
 		
 		
 		//li.addAll(li2);
