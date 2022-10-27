@@ -15,7 +15,7 @@ public class CollectionMap {
 	
 		public static void main(String[] args) {
 			Map<Integer,String> mi=new HashMap<Integer,String>();
-			mi.put(1, "xyz");
+			mi.put(1, "pqr");
 			mi.put(2,"abc");
 			//mi.put(1," ");
 			
