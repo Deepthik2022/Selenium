@@ -9,7 +9,7 @@ public class CollectionList {
 
 		li.add("Deepthi");
 		li.add(30);
-		li.add("Deloitte");
+		li.add("Infosys");
 		
 		List li2=new LinkedList();
 		li2.add("Deepthi");
